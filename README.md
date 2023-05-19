@@ -8,3 +8,5 @@ The approach involves depth estimation using MiDaS on a custom dataset, tyre cla
 This repository provides a comprehensive collection of resources to ensure the transparency, reproducibility, and ease of collaboration for those interested in the project. Contributions and suggestions for improvements are welcome!
 
 ![Screenshot](APP.png)
+
+![Screenshot](HOG_Results.png)
